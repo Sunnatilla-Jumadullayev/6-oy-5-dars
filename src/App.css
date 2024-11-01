@@ -1,0 +1,6 @@
+.hero__btn {
+  margin-left: 15px;
+}
+.hero__btn:hover {
+  color: aliceblue;
+}
